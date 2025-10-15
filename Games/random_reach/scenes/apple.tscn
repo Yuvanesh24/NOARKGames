@@ -1,8 +1,8 @@
 [gd_scene load_steps=29 format=3 uid="uid://syhjbs7alt5a"]
 
-[ext_resource type="Script" uid="uid://dlsvy52bgm6en" path="res://Games/random_reach/Scripts/apple.gd" id="1_47khk"]
-[ext_resource type="Texture2D" uid="uid://dkry1rm40uqso" path="res://Games/random_reach/Sprites/Collected.png" id="2_ydglg"]
-[ext_resource type="Texture2D" uid="uid://dqf45l0lq8ppk" path="res://Games/random_reach/Sprites/Apple.png" id="3_slrbp"]
+[ext_resource type="Script" uid="uid://descinulsf3r0" path="res://Games/random_reach/Scripts/apple.gd" id="1_47khk"]
+[ext_resource type="Texture2D" uid="uid://dfwa3j8d47iil" path="res://Games/random_reach/Sprites/Collected.png" id="2_ydglg"]
+[ext_resource type="Texture2D" uid="uid://d3hfsp074c8m0" path="res://Games/random_reach/Sprites/Apple.png" id="3_slrbp"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_84dii"]
 atlas = ExtResource("2_ydglg")

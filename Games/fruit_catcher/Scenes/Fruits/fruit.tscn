@@ -1,8 +1,8 @@
 [gd_scene load_steps=12 format=3 uid="uid://0iopctt3ttlm"]
 
-[ext_resource type="Script" uid="uid://0u1ce2gw2ndh" path="res://Games/fruit_catcher/Scenes/Fruits/fruit.gd" id="1_5jo5f"]
-[ext_resource type="Texture2D" uid="uid://ihga4qlmm5f1" path="res://Games/fruit_catcher/assets/element_red_diamond.png" id="2_f5rah"]
-[ext_resource type="Texture2D" uid="uid://cy7oii4247nme" path="res://Games/fruit_catcher/assets/Collected.png" id="3_xm5m6"]
+[ext_resource type="Script" uid="uid://ejhovwx86ka4" path="res://Games/fruit_catcher/Scenes/Fruits/fruit.gd" id="1_5jo5f"]
+[ext_resource type="Texture2D" uid="uid://buf8h47w0pcwm" path="res://Games/fruit_catcher/assets/element_red_diamond.png" id="2_f5rah"]
+[ext_resource type="Texture2D" uid="uid://v8mpjecqbkul" path="res://Games/fruit_catcher/assets/Collected.png" id="3_xm5m6"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_tv10m"]
 size = Vector2(35.3553, 35.3553)

@@ -1,8 +1,8 @@
 [gd_scene load_steps=7 format=3 uid="uid://ciht5nisjgbqp"]
 
-[ext_resource type="Script" uid="uid://c4r6h6t6dnh7f" path="res://Games/random_reach/Scripts/player.gd" id="1_w5ee0"]
-[ext_resource type="Texture2D" uid="uid://c5jiurl8san4i" path="res://Games/random_reach/Sprites/jet.png" id="2_4r7xr"]
-[ext_resource type="Texture2D" uid="uid://dahu1duaw3370" path="res://Games/random_reach/Sprites/no_jet.png" id="3_ti3cp"]
+[ext_resource type="Script" uid="uid://d4m2j04ssdu7x" path="res://Games/random_reach/Scripts/player.gd" id="1_w5ee0"]
+[ext_resource type="Texture2D" uid="uid://0hjadw41vxyy" path="res://Games/random_reach/Sprites/jet.png" id="2_4r7xr"]
+[ext_resource type="Texture2D" uid="uid://dcnymxtar4u82" path="res://Games/random_reach/Sprites/no_jet.png" id="3_ti3cp"]
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_dlft7"]
 animations = [{
